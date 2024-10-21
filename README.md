@@ -1,4 +1,4 @@
-# Multi-class-text-classification-
+# Multi-class text classification:
 
 In this file, you will find a multi-class text classification model based on the combination of extracted keywords and text using the Bert model and the Tensorflow library.
 
